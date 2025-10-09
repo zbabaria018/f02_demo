@@ -1,0 +1,14 @@
+@media (max-width: 767px) {
+  .discussion-menu {
+    justify-content: center;
+  }
+}
+body {
+  background-color: rgb(0, 85, 213);
+}
+
+.picture-size {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}

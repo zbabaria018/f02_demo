@@ -1,0 +1,21 @@
+{
+  "name": "lab-5",
+  "version": "1.0.0",
+  "description": "This is my first bootstrap project.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zbabaria018"
+  },
+  "license": "MIT",
+  "author": "Zenil Babaria",
+  "type": "git",
+  "main": "index.js",
+  "scripts": {
+    "sass-build": "sass --no-source-map scss:css",
+    "sass-watch": "sass --watch --no-source-map scss:css"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "sass": "^1.93.2"
+  }
+}

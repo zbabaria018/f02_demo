@@ -1,0 +1,17 @@
+@media (max-width:767px){
+  .discussion-menu {
+    justify-content: center;
+  }
+}
+$primary: rgb(0, 85, 213);
+$img-size: 200px;
+
+body {
+    background-color: $primary;
+}
+
+.picture-size {
+    width: $img-size;
+    height: $img-size;
+    object-fit:cover;
+  }
