@@ -1,0 +1,20 @@
+{
+  "name": "midterm",
+  "version": "1.0.0",
+  "description": "midterm",
+  "keywords": [
+    "midterm",
+    "exam"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zbabaria018"
+  },
+  "license": "MIT",
+  "author": "Zenil Babaria",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
